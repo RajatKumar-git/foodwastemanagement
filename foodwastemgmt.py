@@ -337,7 +337,7 @@ def tips_page():
 # 5. MAIN APP (navigation using a dictionary of functions)
 # ------------------------------------------------------------
 def main():
-    st.set_page_config(page_title="Food Waste Management", page_icon="🍲")
+    st.set_page_config(page_title="Food Waste Management", page_icon="")
     st.title("🍲 Food Waste Management System")
 
     pages = {
